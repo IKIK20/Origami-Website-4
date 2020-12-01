@@ -1,0 +1,190 @@
+h1{
+    color: #4d0765;;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    margin:10px;
+    border:solid purple;
+    background-color: bisque;
+}
+
+
+.links{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+
+.camel{
+    display: flex;
+    justify-content:space-evenly;
+    align-items:center;
+    padding: 10px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(220, 146, 196);
+}
+
+.co{
+    position:relative;
+}
+.co p{
+    position:absolute;
+    top:40%;
+    left:40%
+}
+.co:hover img{
+    transform: scale(1.2);
+}
+
+.cho{
+    position:relative;
+}
+.cho p{
+    position:absolute;
+    top:40%;
+    left:40%
+}
+.cho:hover img{
+    transform: scale(1.2);
+}
+
+.cio{
+    position:relative;
+}
+.cio p{
+    position:absolute;
+    top:40%;
+    left:70%
+}
+.cio:hover img{
+    transform: scale(1.2);
+}
+
+.po{
+    position:relative;
+}
+.po p{
+    position:absolute;
+    top:40%;
+    left:30%
+}
+.po:hover img{
+    transform: scale(1.2);
+}
+
+.pao{
+    position:relative;
+}
+.pao p{
+    position:absolute;
+    top:80%;
+    left:50%
+}
+.pao:hover img{
+    transform: scale(1.2);
+}
+
+.bo{
+    position:relative;
+}
+.bo p{
+    position:absolute;
+    top:65%;
+    left:46%
+}
+.bo:hover img{
+    transform: scale(1.2);
+}
+.factsCa{
+    display:flex;
+    justify-content: flex-end;
+    background-color:  rgb(220, 146, 196);
+}
+
+.hi{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:#5ded1688;
+}
+
+.factsCh{
+    display:flex;
+    justify-content: flex-end;
+    background-color:#5ded1688;
+}
+
+.factsP{
+    display:flex;
+    justify-content: flex-end;
+    background-color:#65a6df;
+}
+
+.pigeon{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:#65a6df;
+}
+
+.factsB{
+    display:flex;
+    justify-content: flex-end;
+    background-color:#c0cd36;
+}
+.bear{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color:#c0cd36;
+    padding: 10px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.factsPa{
+    display:flex;
+    justify-content: flex-end;
+    background-color:#f46f6f;
+}
+.panda{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color:#f46f6f;
+    padding: 10px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.factsCi{
+    display:flex;
+    justify-content: flex-end;
+    background-color:#6fe7f4; 
+}
+.cicada{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color:#6fe7f4;
+    padding: 10px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a:link{
+    color:rgb(4, 60, 4);
+}
+
+a:visited{
+    color:rgb(125, 235, 125);
+}
+
